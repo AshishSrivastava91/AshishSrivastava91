@@ -1,6 +1,6 @@
  👋 Hi, I’m Ashish Srivastava
 
-I’m a senior Android engineer with 10+ years of experience building high-scale, production-grade mobile applications used by millions of users. I specialize in writing clean, secure, and maintainable code with a strong focus on architecture, performance, and scalability.
+I’m a Software engineer with 10+ years of experience building high-scale, production-grade mobile applications used by millions of users. I specialize in writing clean, secure, and maintainable code with a strong focus on architecture, performance, and scalability.
 
 💡 Expertise: Android, Kotlin, Java, Jetpack Compose, MVVM, Clean Architecture, Hilt, Coroutines, REST APIs
 
